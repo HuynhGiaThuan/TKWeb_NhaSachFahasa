@@ -1,0 +1,29 @@
+body {
+}
+* {
+   margin:2px;
+}
+span {
+    background-color:green;
+    border:solid 1px black;
+    padding:10px;
+    text-align:center;
+    color:red;
+}
+#noiDung {
+display:none;
+}
+.doi{
+    background-color:green;
+    border:solid 1px black;
+    padding:10px;
+    text-align:center;
+    color:white;
+}
+.doi :hover{
+   
+    color:red;
+    border-bottom: 2px solid red;
+       
+    
+}

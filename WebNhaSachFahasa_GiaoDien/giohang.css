@@ -1,0 +1,36 @@
+.body{}
+.noibat{
+    color:red;
+}
+.mauchu{
+    color:red;
+    border-left: solid red 2px;
+}
+.mauchu img{
+width: 50px;
+}
+.dong3{
+    border:solid orange 1px;
+}
+.dong3 img{
+    width: 40px;
+
+}
+.smallcontainer{
+    border:solid red 1px;
+    
+    color:white
+}
+.line{
+    border-bottom: solid 1px gray;
+}
+.nhan button{
+    border:none;
+}
+.noibat{
+    color:black;
+}
+.noibat:hover{
+    color:red;
+    padding-left: 25px;
+}

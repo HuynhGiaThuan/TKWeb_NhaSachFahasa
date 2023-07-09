@@ -1,0 +1,375 @@
+body{
+
+}
+.container{
+    width:1500px;
+    border:solid blue 2px;
+}
+.dong1{
+    width:1500px;
+}
+.sale {
+    list-style: none;
+}
+.sale li  img {
+width:1400px;
+}
+.dong2{
+   
+    width: 1500px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.congcu {
+    list-style-type: none;
+}
+.bieutuong {
+    padding-right: 20px;
+    display: inline-block;
+}
+.find {
+    
+    border-right:5px;
+    border-radius: 10px;
+    padding-left: 1px;
+    padding-top: 1px;
+    list-style-type:none;
+border:2px red solid;
+width: 665px;
+height:50px;
+}
+    .find input {
+        font-size: 20px;
+        border-radius: 10px;
+        border: none;
+        width:600px;
+        height:45px;
+    }
+    .find img {
+        
+        padding-left: 5px;
+        border:solid 1px lightblue;
+        background-color:lightblue;
+        border-radius: 5px;
+    width:40px;
+    height:25px;
+    }
+
+.thongtin {
+    list-style-type: none;
+}
+    .thongtin li {
+    display:inline-block;
+    padding:10px;
+   
+    }
+        .thongtin li a {
+         text-decoration:none;
+         color :black;
+        }
+            .thongtin li a img {
+            text-align:center;
+            }
+            .thongbao{
+                list-style-type: none;
+                width:200px;
+                position: absolute;
+                margin-left: -100px;
+                margin-top: 2px;
+                display:none;
+            }
+                .thongbao a {
+                    color:black;
+                }
+            .thongbao li {
+                background-color: whitesmoke;
+                border-radius: 10px;
+             width: 200px;
+                
+            }
+            
+            .thongbao li b{
+                color:black;
+                font-size: 20px;
+              
+            }
+            #dangnhap p{
+                padding: 20px;
+                text-align: center;
+                color:white;
+                height: 10px;
+                width: 150px;
+                background-color: red;
+                border-radius: 10px;
+            }
+            #dangky p{
+                padding: 20px;
+                text-align: center;
+                color:red;
+                height: 10px;
+                width: 150px;
+                border:solid 2px red;
+                border-radius: 10px;
+            }
+            #noidung  img {
+                width: 100px;
+                height: 50px;
+                padding-left: 25px;
+            }
+           
+            .thongtin li:hover .thongbao{
+                color:black;
+                display:block;
+                background-color:whitesmoke;
+                border-radius: 10px;
+               
+            }
+           
+
+           
+
+
+
+            .giohang_cap2{
+                list-style-type: none;
+                width:200px;
+                position: absolute;
+                margin-left: -100px;
+                margin-top: 2px;
+                display:none;
+            }
+                .giohang_cap2 a {
+                    color:black;
+                }
+            .giohang_cap2 li {
+                background-color: white;
+                
+                padding: 20px;
+            }
+            .giohang_cap2 li b{
+                color:black;
+                font-size: 20px;
+              
+            }
+            .giohang_tren{
+                border-bottom: 10px;
+            }
+            
+            
+            .giohang_duoi img {
+               
+                padding-left: 15px;
+                width: 100px;
+            } 
+
+            .thongtin li:hover .giohang_cap2{
+             
+                display:block;
+                background-color:white;
+               
+            }
+
+            .taikhoan{
+                list-style-type: none;
+                width:300px;
+                position: absolute;
+                margin-left: -100px;
+                margin-top: 2px;
+                display:none;
+            }
+                .taikhoan a {
+                    color:black;
+                }
+            .taikhoan li {
+                background-color: white;
+                
+                padding: 20px;
+            }
+            .taikhoan li b{
+                color:black;
+                font-size: 20px;
+              
+            }
+            
+            #dangnhap_taikhoan p{
+                padding: 20px;
+                text-align: center;
+                color:white;
+                height: 10px;
+                width: 150px;
+                background-color: red;
+                border-radius: 10px;
+            }
+            #dangky_taikhoan p{
+                padding: 20px;
+                text-align: center;
+                color:red;
+                height: 10px;
+                width: 200px;
+                border:solid 2px red;
+                border-radius: 10px;
+            }
+            #dangnhap_fb img {
+                width: 15px;
+                height: 15px;
+                }
+                #dangnhap_fb {
+                    border: 2px blue solid;
+                    border-radius: 10px;
+                    width: 300px;
+                    height: 500px;
+                    background-color: blue;
+                    color:whitesmoke
+                    
+                }
+            .thongtin li:hover .taikhoan{
+             
+                display:block;
+                background-color:white;
+               
+            }
+            
+           
+           
+
+
+
+
+.ngonngu{
+list-style: none;
+}
+.ngonngu li {
+    border:solid 2px blue;
+    border-radius: 5px;
+    width:30px;
+    height: 35px;
+}
+.ngonngu  li a img {
+    padding-left: 2px;
+    padding-top: 4px;
+    width:25px;
+    height: 25px;
+}
+.cap1{
+    padding-bottom:30px;
+    list-style-type: none;
+    width:200px;
+    position: relative;
+}
+.cap1 li{ 
+     width: 20px;
+        height: 50px;
+}
+   
+.cap1 img {
+     width: 20px;
+        height: 50px;
+}
+.cap1 a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.cap1 img {
+  
+    width: 25px;
+    height: 25px;
+}
+.cap2{
+    list-style-type: none;
+    width:200px;
+    position: absolute;
+    margin-right: 20px;
+    margin-top: 2px;
+    display:none;
+}
+    .cap2 a {
+        color:black;
+    }
+.cap2 li {
+    background-color: lightgray;
+    
+    padding: 20px;
+}
+.cap2 li :hover{
+    background-color: gray;
+    border:solid  thin lightgray ;
+    border-radius:5px;
+    color:blue;
+}
+.cap1 li:hover .cap2{
+   
+    display:block;
+    background-color:lightgray;
+   
+}
+.dong3{
+    width: 1500px;
+}
+.khung{
+    width: 1500px;
+    height: 2000px;
+}
+.cot1{
+    width: 435px;
+}
+.cot2{
+    width: 600px;
+    border: none;
+    height: 700px;
+    padding-left: 450px;
+}
+.hang1{
+    width: 400px;
+    height: 300px;
+}
+.hang2{
+    width: 480px;
+    text-align: center;
+    color:coral;
+    font-size: 20px;
+    padding-left: 130px;
+    padding-top: 200px;
+}
+.hang3{
+   padding-top: 1px;
+    width: 460px;
+    height: 50px;
+    border: solid 2px red;
+    border-radius: 25px;
+    padding-left: 200px;
+    padding-right: 30px;
+}
+.hang3 input{
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color:black;
+}
+.hang3 img{
+    padding-left: 10px;
+}
+.hang4{
+    width: 670px;
+    font-size: 20px;
+    background-color: lightblue;
+    border: solid 1px lightblue;
+    border-radius: 25px;
+    padding-top: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.hang4 a{
+    text-decoration: none;
+    color: white;
+}
+.hang4 a:hover{
+    color: red;
+}
+.cot3{
+    width: 435px;
+    
+}

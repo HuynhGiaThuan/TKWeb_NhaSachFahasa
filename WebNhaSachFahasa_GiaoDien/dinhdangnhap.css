@@ -1,0 +1,73 @@
+﻿body {
+}
+
+.dong1{
+    width:1500px;
+}
+.sale {
+    list-style: none;
+}
+.sale li  img {
+width:1400px;
+}
+
+
+
+
+
+
+.dong3{
+    
+    background:lightgray;
+    border-radius:15px;
+    text-align:center;
+}
+
+
+.cot1{
+    width:400px;
+    
+}
+cot2{
+   
+    width:400px;
+  
+    
+}
+cot3{
+    width:400px;
+   
+}
+.hang2 input{
+    width:300px;
+    height:30px;
+    padding:10px;
+    margin-bottom:10px;
+     border-radius:10px;
+}
+.hang3 input {
+    width: 300px;
+    height: 30px;
+     padding:10px;
+     margin-bottom:10px;
+     border-radius:10px;
+}
+.hang4 input{
+    border:none;
+    background-color:#1fe460;
+    color:white;
+     width: 350px;
+    height: 30px;
+    border-radius:10px;
+}
+.hang4 input:hover{
+    color:red;
+}
+h5{
+    color:red;
+   
+}
+.cot3 a{
+    text-decoration: none;
+}
+

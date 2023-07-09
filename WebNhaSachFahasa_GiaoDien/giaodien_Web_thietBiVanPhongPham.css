@@ -1,0 +1,635 @@
+.body{
+
+}
+
+
+.sale {
+    list-style: none;
+}
+.sale li  img {
+
+}
+
+/*clip*/
+.clip
+{
+    background-color: black;
+}
+/*end clip*/
+
+
+
+/*dong2*/
+.dong2{
+   
+   
+    background-color: antiquewhite;
+}
+.congcu {
+    list-style-type: none;
+}
+.bieutuong {
+    
+    display: inline-block;
+}
+.find {
+    
+
+    border-radius: 10px;
+    padding-left: 1px;
+    padding-top: 1px;
+    list-style-type:none;
+    border:2px blue solid;
+    width: 325px;
+
+}
+    .find input {
+        font-size: 20px;
+        border-radius: 10px;
+        border: none;
+        width: 275px;
+        
+    }
+    .find img {
+        
+        padding-left: 5px;
+        border:solid 1px lightblue;
+        background-color:lightblue;
+        border-radius: 5px;
+    width:40px;
+    height:25px;
+    }
+    /* thonng bao */
+
+.thongtin {
+    list-style-type: none;
+}
+   
+        .thongtin li a {
+         text-decoration:none;
+         color :black;
+        }
+            .thongtin li a img {
+            text-align:center;
+            }
+            .thongbao{
+                list-style-type: none;
+                width:200px;
+                position: absolute;
+                margin-left: -100px;
+                margin-top: 2px;
+                display:none;
+            }
+                .thongbao a {
+                    color:black;
+                }
+            .thongbao li {
+                background-color: whitesmoke;
+                border-radius: 10px;
+                width: 150px;
+                
+            }
+            
+            .thongbao li b{
+                color:black;
+                font-size: 20px;
+              
+            }
+            #dangnhap p{
+                
+                text-align: center;
+                color:white;
+                height: 30px;
+                width: 150px;
+                background-color: red;
+                border-radius: 10px;
+            }
+            #dangky p{
+                
+                text-align: center;
+                border: solid 2px red;
+                color:red;
+                height: 30px;
+                width: 150px;
+                background-color: white;
+                border-radius: 10px;
+            }
+           
+            #noidung  img {
+                width: 100px;
+                height: 50px;
+                padding-left: 25px;
+            }
+           
+            .thongtin li:hover .thongbao{
+                color:black;
+                display:block;
+              
+               
+            }
+
+
+/* danhnhap_taikhoan */
+            .thongtin {
+                list-style-type: none;
+            }
+                
+                    
+                       
+                        .taikhoan{
+                            list-style-type: none;
+                            width:300px;
+                            height: 250px;
+                            position: absolute;
+                            margin-left: -100px;
+                            margin-top: 2px;
+                            display:none;
+                          
+                        
+                        }
+                           
+                        .taikhoan li {
+                            background-color: whitesmoke;
+                            border-radius: 10px;
+                             width: 250px;
+                             height: 190px;   
+                        }
+                        
+                      
+                        #dangnhap_fb img {
+                        width: 15px;
+                        height: 15px;
+                        }
+                        #dangnhap_fb {
+                            border: 2px blue solid;
+                            border-radius: 10px;
+                          
+                          
+                            background-color: blue;
+                            color:whitesmoke
+                            
+                        }
+                       
+                       
+                        .thongtin li:hover .taikhoan{
+                            color:black;
+                            display:block;
+                           
+                        }
+           
+/* ngôn ngữ*/
+
+#hinh img{
+    border:solid 2px blue;
+    width:25px;
+    height: 25px;
+}
+ 
+.ngonngu{
+    list-style-type: none;
+    width:150px;
+    height: 100px;
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 2px;
+    display:none;
+    
+}
+   
+.ngonngu li {
+    background-color: whitesmoke;
+    border-radius: 10px;
+     width: 170px;
+     height: 80px;   
+}
+.ngonngu li img{
+    width: 50px;
+    height: 25px;
+}
+.ngonngu li span  :hover{
+    border:solid 2px gray;
+    width: 100px;
+    height: 40px;
+}
+.thongtin li:hover .ngonngu{
+    color:black;
+    display:block;
+  
+ 
+}
+           
+
+
+/* giohang */
+
+
+            .giohang_cap2{
+                list-style-type: none;
+                width:220px;
+        
+                position: absolute;
+                margin-left: -100px;
+                margin-top: 2px;
+                display:none;
+            }
+                .giohang_cap2 a {
+                    color:blue;
+                }
+            .giohang_cap2 li {
+                background-color: white;
+           
+                
+               
+            }
+            .giohang_cap2 li b{
+                color:black;
+                font-size: 20px;
+              
+            }
+            .giohang_tren{
+                border-bottom: 10px;
+            }
+            
+            
+            .giohang_duoi img {
+               
+                padding-left: 15px;
+                width: 100px;
+            } 
+
+            .thongtin li:hover .giohang_cap2{
+             
+                display:block;
+                height: 250px;
+                
+               
+            }
+/*end dong2*/
+/*dong3*/
+.dong3{
+    
+    background-color: antiquewhite;  
+}
+
+.tienich li{
+    padding-left: 20px;
+   display: inline-block;
+}
+.tienich li a{ 
+    text-decoration: none;
+    color: red;
+}
+.tienich li img {
+   
+   
+    width: 50px;
+    height: 50px;
+    
+ }
+    
+/*end dong3*/
+/*vong4*/
+.dong4{
+  
+    
+    background-color:whitesmoke;  
+}
+.dong4 span img {
+    width: 50px;
+    height: 50px;
+
+}
+.dong4 span b {
+   font-size: 30px;
+
+}
+#sanpham{
+    padding-left: 175px;
+    list-style-type: none;
+}
+#sanpham li{
+    padding: 25px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+/*end dong4*/
+/*dong 5*/
+
+.khung{
+    border: solid red 2px;
+    border-radius: 25px;
+    background-color: gray;
+  
+  
+}
+
+
+.dong5{
+  
+   
+    background-color: lightblue;  
+    border-radius: 25px;
+}
+
+
+
+.sachgiaokhoa{
+    
+    list-style-type: none;
+}
+.sachgiaokhoa li{
+    
+    padding-left: 25px;
+    background-color: lightgray;
+    border-radius: 15px;
+    border: solid black 2px;
+    width: 250px;
+    height: 500px;
+    display: inline-block;
+    font-size: 20px;
+}
+.sachgiaokhoa li h5{
+color:red;
+}
+.sachgiaokhoa li img     {
+    
+    width: 240px;
+    height: 250px;
+}
+#danhgia img    {
+    
+    width: 15px;
+    height: 15px;
+}
+
+
+.nhan{
+    border:none;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+.xemthem_sachgiaokhoa{
+list-style-type: none;
+}
+.xemthem_sachgiaokhoa li {
+
+   display: inline-block;
+   
+  
+    }
+.xemthem_sachgiaokhoa li p {
+    font-size: 25px;
+    padding-top: 10px;
+    text-align: center;
+    height: 50px;
+  
+ 
+  
+    }
+    .xemthem_sachgiaokhoa li a {
+       text-decoration: none;
+       color:black;
+      
+        }
+    .xemthem_sachgiaokhoa li a :hover{
+        font-size: 25px;
+        padding-top: 10px;
+        text-align: center;
+        height: 50px;
+       
+       color:red;
+    }
+
+
+
+
+/*end dong5*/
+/*dong6*/
+.dong6{
+    padding-top: 25px;
+    border-radius: 15px;
+    background-color: lightblue;  
+}
+.dong6 h4{
+    padding-left: 25px;
+    font-size: 30px;
+}
+/*end dong6*/
+/*dong7*/
+
+.dong7{
+    padding-top: 5px;
+    border-radius: 15px;
+    background-color: lightblue;  
+}
+.dong7 h4{
+    padding-left: 25px;
+    font-size: 30px;
+}
+/*end dong6*/
+/*dongcuoi*/         
+.dongCuoi{
+  border-radius:25px;
+}          
+.bantin{
+   list-style-type: none;
+   border: solid gray 2px;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   background-color: gray;
+   width: 1200px;
+   color:white;
+}  
+
+.bantin li{
+  
+    display:inline-block ;
+    height: 20px;
+}   
+
+.tren{
+    border-top-left-radius: 25px;
+    border-top-right-radius:25px;  
+}
+
+
+.dieukhoan{
+    border-left: solid 1px gray;
+}
+.dieukhoan a{
+    color:black;
+}
+.dieukhoan a :hover{
+    
+    color:red;
+    margin-left: 12px;
+}
+     
+
+
+#nhapgmail input{
+  
+   border:none;
+   border-radius: 10px;
+   font-size: 20px;
+}
+#nhapgmail span {
+   
+  width:50px ;
+  
+}
+#nhapgmail span input {
+  
+   background-color: orange;
+   width:100px ;
+   color: white;
+   
+  
+}
+
+.chinhsach_cot1{
+   float:left;
+   
+   height: 415px;
+   background-color: whitesmoke;
+}
+.chinhsach_cot2{
+   border-left:solid 2px black;
+   float:right;
+   background-color: whitesmoke;
+    
+   height: 415px;
+}
+
+.tranglienket{
+   list-style-type: none;
+}
+.tranglienket li{
+   display: inline-block;
+}
+.hotro{
+   list-style-type: none;
+}
+.hotro li {
+   display: inline-block;
+   
+   width: 250px;
+}
+.hotro li b{
+   padding-left: 40px;
+}
+.hotro li a{
+   text-decoration: none;
+   color: black;
+}
+.hotro li {
+   padding-left: 10px;
+}
+
+
+.hotro li p:hover{
+color: red;
+padding-left: 10px;
+
+}
+.hotro li img {
+   padding-left: 40px;
+}
+.hotro lienhe{
+   padding-left: 25px;
+}
+/*lien he*/
+.lienhe{
+   list-style-type: none;
+}
+.lienhe li {
+   padding-left: 45px;
+   font-size: 20px;
+}
+
+.hoptac{
+   list-style-type: none;
+}
+.hoptac li {
+   padding-left: 20px;
+   display: inline-block;
+}
+.hoptac li img {
+   padding: 20px;
+   width: 90px;
+   height: 40px;
+}
+.chinhsach_cot3{
+   text-align: center;
+   color: gray;
+   float: left;
+   width: 1250px;
+   background-color: whitesmoke;
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+.cap1{
+    padding-bottom:30px;
+    list-style-type: none;
+    width:200px;
+    position: relative;
+}
+.cap1 li{ 
+     width: 100px;
+        height: 50px;
+}
+   
+.cap1 img {
+     width: 50px;
+        height: 50px;
+}
+.cap1 a {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cap1 img {
+  
+    width: 25px;
+    height: 25px;
+}
+.cap2{
+    list-style-type: none;
+    width:400px;
+    position: absolute;
+    margin-right: 20px;
+    margin-top: 2px;
+    display:none;
+}
+    .cap2 a {
+        color:black;
+    }
+.cap2 li {
+    background-color: lightgray;
+    
+    padding: 20px;
+}
+.cap2 li :hover{
+    background-color: gray;
+    border:solid  thin lightgray ;
+    border-radius:5px;
+    color:blue;
+}
+.cap1 li:hover .cap2{
+   
+    display:block;
+    background-color:lightgray;
+   
+}
+
